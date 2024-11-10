@@ -277,7 +277,7 @@ GridLayout.propTypes = {
      * (number) the default number of columns by item.
      * Default value is 6.
      */
-    ncols: PropTypes.number,
+    ncols: PropTypes.object,
 
     /**
      * (number) the default number of row by item.
